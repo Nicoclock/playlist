@@ -29,4 +29,4 @@
 
 | Titre | Style |
 |---|---|
-|[Fatboy Slim - Praise You](https://www.youtube.com/watch?v=ruAi4VBoBSM) | Funk |
+|[Fatboy Slim - Praise You](https://www.youtube.com/watch?v=ruAi4VBoBSM) | Funk et Soul |
