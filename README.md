@@ -40,3 +40,21 @@
 - enregistre dans l'historique une étape du développement
 
     - `git commit -m "message explicite sur l'étape de développement"`
+
+- avant l'envoi sur un repo distant, on peut modifier le message du commit
+
+    - `git commit --amend`
+
+- cette commande ouvre l'éditeur de texte [vi](http://wiki.linux-france.org/wiki/Utilisation_de_vi)
+
+## VI
+
+- quelques commandes de base :
+
+    - i pour insérer du contenu
+
+    - esc pour sortir de l'édition
+
+    - :x pour sauvegarder les modifs
+
+    - :q! pour quitter sans sauvegarder
